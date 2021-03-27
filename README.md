@@ -16,3 +16,4 @@
 ---
 ## 완전 탐색의 응용 문제
 * 백준 14888번 : [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) (🥈 실버 1티어)
+* 백준 1182번 : [부분수열의 합](https://www.acmicpc.net/problem/1182) (🥈 실버 2티어)
