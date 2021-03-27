@@ -12,3 +12,7 @@
 * 백준 15649번 : [N과 M (1)](https://www.acmicpc.net/problem/15649) (🥈 실버 3티어)
 * 백준 15652번 : [N과 M (4)](https://www.acmicpc.net/problem/15652) (🥈 실버 3티어)
 * 백준 15650번 : [N과 M (2)](https://www.acmicpc.net/problem/15650) (🥈 실버 3티어)
+
+---
+## 완전 탐색의 응용 문제
+* 백준 14888번 : [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) (🥈 실버 1티어)
