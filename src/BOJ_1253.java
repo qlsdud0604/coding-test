@@ -43,15 +43,15 @@ public class BOJ_1253 {
 				else if (target < arr[start] + arr[end])
 					end--;
 				else {
-					if (arr[start] != target && arr[end] != target) {
+					if (start != i && end != i) {
 						count++;
 						break;
 					}
 
-					if (arr[start] == target)
+					if (start == i)
 						start++;
 
-					if (arr[end] == target)
+					if (end == i)
 						end--;
 
 				}
