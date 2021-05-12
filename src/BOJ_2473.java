@@ -61,5 +61,4 @@ public class BOJ_2473 {
 			}
 		}
 	}
-
 }
