@@ -1,4 +1,4 @@
-# 이진 탐색(Binary search)
+# 이진 탐색(Binary Search)
 
 -----
 ## 이진 탐색이란?
