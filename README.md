@@ -1,4 +1,4 @@
-# Brute-Force
+# Brute force
 
 -----
 ## 완전 탐색이란?
