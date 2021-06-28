@@ -20,3 +20,4 @@
 * 백준 2251번 : [물통](https://www.acmicpc.net/problem/2251) (🥈 실버 1티어)
 * 백준 14502번 : [연구소](https://www.acmicpc.net/problem/14502) (🥇 골드 5티어)
 * 백준 2178번 : [미로 탐색](https://www.acmicpc.net/problem/2178) (🥈 실버 1티어)
+* 백준 7562번 : [나이트의 이동](https://www.acmicpc.net/problem/7562) (🥈 실버 2티어)
