@@ -24,3 +24,5 @@
 * 백준 2644번 : [촌수계산](https://www.acmicpc.net/problem/2644) (🥈 실버 2티어)
 * 백준 18404번 : [현명한 나이트](https://www.acmicpc.net/problem/18404) (🥈 실버 1티어)
 * 백준 1389번 : [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) (🥈 실버 1티어)
+* 백준 5567번 : [결혼식](https://www.acmicpc.net/problem/5567) (🥈 실버 1티어)
+* 백준 7569번 : [토마토](https://www.acmicpc.net/problem/7569) (🥈 실버 1티어)
