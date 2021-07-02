@@ -26,3 +26,4 @@
 * 백준 1389번 : [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) (🥈 실버 1티어)
 * 백준 5567번 : [결혼식](https://www.acmicpc.net/problem/5567) (🥈 실버 1티어)
 * 백준 7569번 : [토마토](https://www.acmicpc.net/problem/7569) (🥈 실버 1티어)
+* 백준 1697번 : [숨바꼭질](https://www.acmicpc.net/problem/1697) (🥈 실버 1티어)
