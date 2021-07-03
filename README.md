@@ -27,3 +27,4 @@
 * 백준 5567번 : [결혼식](https://www.acmicpc.net/problem/5567) (🥈 실버 1티어)
 * 백준 7569번 : [토마토](https://www.acmicpc.net/problem/7569) (🥈 실버 1티어)
 * 백준 1697번 : [숨바꼭질](https://www.acmicpc.net/problem/1697) (🥈 실버 1티어)
+* 백준 3055번 : [탈출](https://www.acmicpc.net/problem/3055) (🥇 골드 5티어)
