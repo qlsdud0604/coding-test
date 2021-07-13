@@ -18,3 +18,5 @@
 * 백준 11437 : [LCA](https://www.acmicpc.net/problem/11437) (🥇 골드 3티어)
 * 백준 9489 : [사촌](https://www.acmicpc.net/problem/9489) (🥇 골드 4티어)
 * 백준 1068 : [트리](https://www.acmicpc.net/problem/1068) (🥇 골드 5티어)
+* 백준 15681 : [트리와 쿼리](https://www.acmicpc.net/problem/15681) (🥇 골드 5티어)
+* 백준 14267 : [회사 문화 1](https://www.acmicpc.net/problem/14267) (🥇 골드 4티어)
