@@ -3,7 +3,7 @@
 ---
 ## 트리란?
 * 사이클이 존재하지 않는 특수한 형태의 그래프   
-<img src="https://user-images.githubusercontent.com/61148914/125777016-1fd60f8c-1887-48af-a6a0-0dec1fe2b839.png" width="30%">   
+<img src="https://user-images.githubusercontent.com/61148914/125777016-1fd60f8c-1887-48af-a6a0-0dec1fe2b839.png" width="40%">   
 
 ---
 ## 트리 문제 - 난이도(하)
