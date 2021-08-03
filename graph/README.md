@@ -1,9 +1,10 @@
-# 그래프 (Graph)
+# 그래프(Graph)
 
 ---
 ## 그래프란?
 * 정점(Vertex)과 간선(Edge)으로 구성된 자료구조   
 <img src="https://user-images.githubusercontent.com/61148914/124706333-075fa680-df32-11eb-84b9-36a5c2910742.png" width="60%">
+</br>
 
 ---
 ## 그래프 탐색 문제 - 난이도(하)
@@ -16,6 +17,7 @@
 * 백준 2606번 : [바이러스](https://www.acmicpc.net/problem/2606) (🥈 실버 3티어)
 * 백준 11403번 : [경로 찾기](https://www.acmicpc.net/problem/11403) (🥈 실버 1티어)
 * 백준 11725번 : [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) (🥈 실버 2티어)
+</br>
 
 ---
 ## 그래프 탐색 문제 - 난이도(중)
@@ -30,3 +32,4 @@
 * 백준 7569번 : [토마토](https://www.acmicpc.net/problem/7569) (🥈 실버 1티어)
 * 백준 1697번 : [숨바꼭질](https://www.acmicpc.net/problem/1697) (🥈 실버 1티어)
 * 백준 3055번 : [탈출](https://www.acmicpc.net/problem/3055) (🥇 골드 5티어)
+</br>
