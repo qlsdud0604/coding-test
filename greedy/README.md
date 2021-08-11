@@ -31,3 +31,8 @@
 * 백준 11000번 : [강의실 배정](https://www.acmicpc.net/problem/11000) (🥇 골드 5티어)
 * 백준 1700번 : [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) (🥇 골드 1티어)
 </br>
+
+---
+## 그리디 알고리즘 문제 - 난이도(상)
+* 백준 1700번 : [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) (🥇 골드 1티어)
+</br>
