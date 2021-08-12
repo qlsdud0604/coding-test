@@ -21,10 +21,12 @@
 * 백준 13458번 : [시험 감독](https://www.acmicpc.net/problem/13458) (🥉 브론즈 2티어)
 * 백준 4796번 : [캠핑](https://www.acmicpc.net/problem/4796) (🥈 실버 5티어)
 * 백준 12845번 : [모두의 마블](https://www.acmicpc.net/problem/2437) (🥈 실버 3티어)
+* 백준 10610번 : [30](https://www.acmicpc.net/problem/10610) (🥈 실버 5티어)
 </br>
 
 ---
 ## 그리디 알고리즘 문제 - 난이도(중)
+* 백준 1449번 : [수리공 항승](https://www.acmicpc.net/problem/1449) (🥈 실버 3티어)
 * 백준 1931번 : [회의실 배정](https://www.acmicpc.net/problem/1931) (🥈 실버 2티어)
 * 백준 1946번 : [신입 사원](https://www.acmicpc.net/problem/1946) (🥈 실버 1티어)
 * 백준 2437번 : [저울](https://www.acmicpc.net/problem/2437) (🥇 골드 3티어)
