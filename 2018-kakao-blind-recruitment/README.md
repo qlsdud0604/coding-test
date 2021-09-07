@@ -1,4 +1,4 @@
-# 2018 카카오 블라인드 공채
+# 2018 카카오 블라인드 채용
 
 ---
 ## 문제
@@ -11,4 +11,6 @@
 * 압축 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17684) (:star::star:)
 * 파일명 정렬 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17686) (:star::star:)
 * n진수 게임 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17687) (:star::star:)
+* 추석 트래픽 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17676) (:star::star::star:)
+* 셔틀버스 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17678) (:star::star::star:)
 </br>
