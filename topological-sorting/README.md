@@ -13,7 +13,6 @@
 * 백준 2623번 : [음악프로그램](https://www.acmicpc.net/problem/2623) (🥇 골드 2티어)
 </br>
 
----
 ## 위상 정렬 문제 - 난이도(중)
 * 백준 9470번 : [Strahler 순서](https://www.acmicpc.net/problem/9470) (🥇 골드 3티어)
 * 백준 14676번 : [영우는 사기꾼?](https://www.acmicpc.net/problem/14676) (🥇 골드 4티어)
@@ -22,7 +21,6 @@
 * 백준 2056번 : [작업](https://www.acmicpc.net/problem/2056) (🥇 골드 4티어)
 </br>
 
----
 ## 위상 정렬 문제 - 난이도(상)
 * 백준 2637번 : [장난감 조립](https://www.acmicpc.net/problem/2637) (🥇 골드 2티어)
 </br>
