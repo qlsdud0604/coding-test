@@ -17,7 +17,6 @@
 * 백준 10816번 : [숫자 카드 2](https://www.acmicpc.net/problem/10816) (🥈 실버 4티어)
 </br>
 
----
 ## 이진 탐색 문제 - 난이도(중)
 * 백준 2470번 : [두 용액](https://www.acmicpc.net/problem/2470) (🥇 골드 5티어)
 * 백준 2805번 : [나무 자르기](https://www.acmicpc.net/problem/2805) (🥈 실버 3티어)
@@ -30,7 +29,6 @@
 * 백준 17266번 : [어두운 굴다리](https://www.acmicpc.net/problem/17266) (🥈 실버 5티어)
 </br>
 
----
 ## 이진 탐색 문제 - 난이도(상)
 * 백준 1300번 : [K번째 수](https://www.acmicpc.net/problem/1300) (🥇 골드 3티어)
 * 백준 1637번 : [날카로운 눈](https://www.acmicpc.net/problem/1637) (🏅 플래티넘 5티어)
