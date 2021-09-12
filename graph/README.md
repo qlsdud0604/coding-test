@@ -19,7 +19,6 @@
 * 백준 11725번 : [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) (🥈 실버 2티어)
 </br>
 
----
 ## 그래프 탐색 문제 - 난이도(중)
 * 백준 2251번 : [물통](https://www.acmicpc.net/problem/2251) (🥈 실버 1티어)
 * 백준 14502번 : [연구소](https://www.acmicpc.net/problem/14502) (🥇 골드 5티어)
