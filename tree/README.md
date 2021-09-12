@@ -14,7 +14,6 @@
 * 백준 20364번 : [부동산 다툼](https://www.acmicpc.net/problem/20364) (🥈 실버 2티어)
 </br>
 
----
 ## 트리 문제 - 난이도(중)
 * 백준 3584번 : [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) (🥇 골드 4티어)
 * 백준 1240번 : [노드사이의 거리](https://www.acmicpc.net/problem/1240) (🥇 골드 4티어)
