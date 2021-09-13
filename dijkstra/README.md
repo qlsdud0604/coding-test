@@ -14,7 +14,6 @@
 * 백준 14284번 : [간선 이어가기 2](https://www.acmicpc.net/problem/14284) (🥇 골드 5티어)
 </br>
 
----
 ## 다익스트라 문제 - 난이도(중)
 * 백준 1446번 : [지름길](https://www.acmicpc.net/problem/1446) (🥈 실버 1티어)
 * 백준 1504번 : [특정한 최단 경로](https://www.acmicpc.net/problem/1504) (🥇 골드 4티어)
