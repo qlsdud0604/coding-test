@@ -3,7 +3,7 @@
 ## 📚 그래프란?
 <img src="https://user-images.githubusercontent.com/61148914/124706333-075fa680-df32-11eb-84b9-36a5c2910742.png" width="60%">
 
-* 정점(Vertex)과 간선(Edge)으로 구성된 자료구조   
+* 정점(Vertex)과 간선(Edge)으로 구성된 자료구조이다.   
 </br>
 
 ## 📚 그래프 탐색 문제
