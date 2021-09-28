@@ -1,7 +1,7 @@
 # 2018 카카오 블라인드 채용
 
----
-## 1차 문제
+## 📚 문제
+**✔️ 1차 문제**
 * 비밀지도 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17681) (:star:)
 * 다트 게임 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17682) (:star:)
 * 캐시 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17680) (:star::star:)
@@ -11,7 +11,7 @@
 * 추석 트래픽 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17676) (:star::star::star:)
 </br>
 
-## 3차 문제
+**✔️ 3차 문제**
 * n진수 게임 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17687) (:star::star:)
 * 압축 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17684) (:star::star:)
 * 파일명 정렬 : [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17686) (:star::star:)
