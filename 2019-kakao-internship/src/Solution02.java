@@ -6,16 +6,7 @@ public class Solution02 {
 
 	static ArrayList<Element> list = new ArrayList<>();
 
-	public static void main(String[] args) {
-
-		String s = "{{20,111},{111}}";
-		solution(s);
-
-		for (int i = 0; i < answer.length; i++)
-			System.out.print(answer[i] + " ");
-	}
-
-	static public int[] solution(String s) {
+	public int[] solution(String s) {
 		String[] input = s.split("\\{|\\}|\\,");
 
 		/** 주어진 문자열 탐색 */
