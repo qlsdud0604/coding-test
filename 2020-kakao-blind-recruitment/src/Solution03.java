@@ -24,7 +24,7 @@ public class Solution03 {
 					}
 					compare(key, extendedLock, x, y, r);
 
-					if (check(extendedLock, x, y))
+					if (check(extendedLock))
 						return true;
 				}
 
@@ -52,7 +52,7 @@ public class Solution03 {
 	}
 
 	/** 회전한 key가 extendedLock와 맞는지 확인 */
-	static boolean check(int[][] extendedLock, int x, int y) {
+	static boolean check(int[][] extendedLock) {
 
 		for (int i = 0; i < M; i++) {
 			for (int j = 0; j < M; j++) {
