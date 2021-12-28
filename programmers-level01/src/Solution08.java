@@ -3,12 +3,7 @@ import java.util.*;
 
 public class Solution08 {
 
-	public static void main(String[] args) {
-		int[] answers = { 1, 2, 3, 4, 5 };
-		solution(answers);
-	}
-
-	static public int[] solution(int[] answers) {
+	public int[] solution(int[] answers) {
 		int[] person01 = { 1, 2, 3, 4, 5 };
 		int[] person02 = { 2, 1, 2, 3, 2, 4, 2, 5 };
 		int[] person03 = { 3, 3, 1, 1, 2, 2, 4, 4, 5, 5 };
